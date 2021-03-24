@@ -1,0 +1,2 @@
+VGLUT1 macro: adjust number of channels depending on image 
+(original dataset contains both 2-channel and 3-channel images)
